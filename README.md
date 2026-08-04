@@ -7,7 +7,7 @@
 CPU|i7-3770(win11非対応)
 RAM|16GB
 GPU|内蔵GPU(HD4000)
-ROM|Cドライブ 512GB SSD Dドライブ 2TB HDD
+ROM|Cドライブ 512GB SSD<br>Dドライブ 2TB HDD
 OS|Windows11 Pro(チェックリスト回避)
 
 
