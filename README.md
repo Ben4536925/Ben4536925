@@ -6,7 +6,7 @@
 機種|ESPRIMO D582/G
 CPU|i7-3770(win11非対応)
 RAM|16GB
-GPU|内蔵GPU(HD4000)
+GPU|RX6400
 ROM|Cドライブ 512GB SSD<br>Dドライブ 2TB HDD
 OS|Windows11 Pro(チェックリスト回避)
 
